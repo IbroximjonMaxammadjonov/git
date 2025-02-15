@@ -1,10 +1,10 @@
 Line1
 Line2
-Line3
+Line3  modified line 3 in git_1
 Line4
 Line5
 Line6  modified line 6 in git_1
-Line7
+Line7  modified line 7 in git_1
 Line8  modified line 8 in git_1
 Line9
 Line10
