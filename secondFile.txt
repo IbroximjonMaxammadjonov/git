@@ -1,7 +1,7 @@
 Line1
-Line2
+Line2  Updated this line in git_1
 Line3
-Line4
+Line4  Updated this line in git_1
 Line5
 Line6
 Line7
